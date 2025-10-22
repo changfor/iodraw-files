@@ -30,6 +30,11 @@
             <mxPoint x="355" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-91" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="6EPKUSVXe_J1LnKRZcHW-29">
+          <mxGeometry x="-0.4789" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-24" value="是否预投入" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="185" y="280" width="80" height="80" as="geometry" />
         </mxCell>
