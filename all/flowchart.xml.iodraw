@@ -133,8 +133,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-90" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6EPKUSVXe_J1LnKRZcHW-76">
+          <mxGeometry x="0.328" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-71" value="是否视为已签" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" y="585" width="80" height="80" as="geometry" />
+          <mxGeometry x="860" y="585" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6EPKUSVXe_J1LnKRZcHW-75" target="6EPKUSVXe_J1LnKRZcHW-58">
           <mxGeometry relative="1" as="geometry">
