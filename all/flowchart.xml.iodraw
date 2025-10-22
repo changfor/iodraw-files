@@ -35,6 +35,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-80" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6EPKUSVXe_J1LnKRZcHW-29">
+          <mxGeometry x="-0.4198" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-24" value="是否预投入" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="185" y="280" width="80" height="80" as="geometry" />
         </mxCell>
@@ -118,6 +123,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-79" value="快捷立项" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6EPKUSVXe_J1LnKRZcHW-72">
+          <mxGeometry x="-0.0142" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-81" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6EPKUSVXe_J1LnKRZcHW-72">
           <mxGeometry x="-0.0142" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
