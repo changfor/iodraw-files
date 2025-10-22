@@ -106,7 +106,7 @@
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-67" value="交付" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="495" y="80" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6EPKUSVXe_J1LnKRZcHW-69" value="营销" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-69" value="商务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="80" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
