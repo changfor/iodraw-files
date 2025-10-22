@@ -130,6 +130,11 @@
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6EPKUSVXe_J1LnKRZcHW-71" target="6EPKUSVXe_J1LnKRZcHW-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-82" value="正常立项" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6EPKUSVXe_J1LnKRZcHW-76">
+          <mxGeometry x="0.3429" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-71" value="是否预投入" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="585" width="80" height="80" as="geometry" />
         </mxCell>
