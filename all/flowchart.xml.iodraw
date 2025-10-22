@@ -62,6 +62,9 @@
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-37" value="一键创建项目" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="585" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-47" value="创建商机" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
