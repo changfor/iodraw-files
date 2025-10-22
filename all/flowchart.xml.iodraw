@@ -55,11 +55,14 @@
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-3" value="申请合同" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="570" width="100" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6EPKUSVXe_J1LnKRZcHW-5" target="6EPKUSVXe_J1LnKRZcHW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-5" value="申请采购" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="710" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-7" value="申请采购" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="720" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="830" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
