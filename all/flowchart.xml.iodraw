@@ -26,13 +26,8 @@
             <mxPoint x="60" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6EPKUSVXe_J1LnKRZcHW-35" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6EPKUSVXe_J1LnKRZcHW-27">
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-35" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="6EPKUSVXe_J1LnKRZcHW-27">
           <mxGeometry x="-0.5126" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6EPKUSVXe_J1LnKRZcHW-42" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6EPKUSVXe_J1LnKRZcHW-27">
-          <mxGeometry x="-0.5469" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
