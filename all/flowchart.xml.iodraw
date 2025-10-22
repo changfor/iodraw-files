@@ -114,8 +114,11 @@
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-69" value="商务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="795" y="80" width="210" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6EPKUSVXe_J1LnKRZcHW-71" target="6EPKUSVXe_J1LnKRZcHW-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-71" value="是否预投入" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="665" width="80" height="80" as="geometry" />
+          <mxGeometry x="860" y="585" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
