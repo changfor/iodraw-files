@@ -110,7 +110,7 @@
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6EPKUSVXe_J1LnKRZcHW-65" target="6EPKUSVXe_J1LnKRZcHW-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6EPKUSVXe_J1LnKRZcHW-65" value="项目验收且成本归集完毕" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-65" value="项目达成确收条件, 且成本归集完毕" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="720" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6EPKUSVXe_J1LnKRZcHW-67" target="6EPKUSVXe_J1LnKRZcHW-47">
@@ -152,7 +152,7 @@
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-75" value="立项流程归档" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="990" y="385" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6EPKUSVXe_J1LnKRZcHW-83" value="项目验收且成本归集完毕" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-83" value="项目确收" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="840" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
