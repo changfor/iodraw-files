@@ -42,13 +42,11 @@
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-24" value="是否预投入" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="185" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6EPKUSVXe_J1LnKRZcHW-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="6EPKUSVXe_J1LnKRZcHW-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="105" y="465" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6EPKUSVXe_J1LnKRZcHW-30" target="6EPKUSVXe_J1LnKRZcHW-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-30" value="预投入风险决策" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="385" width="120" height="80" as="geometry" />
+          <mxGeometry x="45" y="385" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6EPKUSVXe_J1LnKRZcHW-31" target="6EPKUSVXe_J1LnKRZcHW-37">
           <mxGeometry relative="1" as="geometry" />
