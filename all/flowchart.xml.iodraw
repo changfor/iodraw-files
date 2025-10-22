@@ -61,8 +61,8 @@
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-5" value="申请采购" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="710" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6EPKUSVXe_J1LnKRZcHW-7" value="申请采购" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="830" width="100" height="80" as="geometry" />
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-7" value="项目确收" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="840" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
