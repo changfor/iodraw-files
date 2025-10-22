@@ -82,9 +82,6 @@
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6EPKUSVXe_J1LnKRZcHW-56" target="6EPKUSVXe_J1LnKRZcHW-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6EPKUSVXe_J1LnKRZcHW-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6EPKUSVXe_J1LnKRZcHW-56" target="6EPKUSVXe_J1LnKRZcHW-65">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6EPKUSVXe_J1LnKRZcHW-56" target="6EPKUSVXe_J1LnKRZcHW-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -152,6 +149,9 @@
         </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-94" value="是否视为已签" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="745" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-96" value="发起项目立项" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="555" y="600" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
