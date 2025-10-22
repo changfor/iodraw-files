@@ -90,12 +90,6 @@
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6EPKUSVXe_J1LnKRZcHW-56" target="6EPKUSVXe_J1LnKRZcHW-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6EPKUSVXe_J1LnKRZcHW-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540.0000648789278" y="689.9988235294118" as="sourcePoint" />
-            <mxPoint x="205" y="784.94" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-56" value="发起项目立项" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="585" width="120" height="80" as="geometry" />
         </mxCell>
@@ -148,6 +142,11 @@
             <Array as="points">
               <mxPoint x="1050" y="200" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6EPKUSVXe_J1LnKRZcHW-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6EPKUSVXe_J1LnKRZcHW-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6EPKUSVXe_J1LnKRZcHW-75" value="立项流程归档" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
